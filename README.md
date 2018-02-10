@@ -36,7 +36,7 @@ Store Id: 112
 #### order11372
 ```
 Customer Name: Justin Bieber
-Address: 1801 W Rodeo Dr
+Address: 1801 W Rodeo Dr. Fgt
 City: Beverly Hills
 State: CA
 Zip Code: 91833
